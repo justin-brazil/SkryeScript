@@ -1,0 +1,12 @@
+SKRYESCRIPT INSTRUCTIONS
+-------------------------
+
+Skryescript is a text file script search utility that allows you to organize and search text-based files in multiple directories using a header-based tagging system called JustinML.  
+
+The idea is to allow you to quickly and easily search your script libraries and filter your results.
+
+There are 3 modes - script search, logs, and results - logs and results can be used to quickly and easily locate the output from the scripts you run throughout your environment. 
+
+PROJECT FILES
+--------------
+Skryescript configuration files are installed at C:\PowerShell\AppData\Skrescript

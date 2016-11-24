@@ -1,0 +1,26 @@
+SkreyScript v 1.0.0.1
+---------------------
+Release Date 11/23/2016
+
+First succesful build has been released.  
+
+Installs into C:\Program Files (or C:\Program Files x86 if 32-bit).
+Welcome splash screen runs on first launch
+
+Bugs and Issues:
+	* Files opened in notepad.exe freeze the script until terminated (may require Start-Process to launch using different PID)
+	* Need to find out why returning to "SCRIPTS" mode is so slow and processes the filterlist checkbox function so many times
+
+
+Future tasks:
+	* Set Index-JustML to run as background job.
+	* Clear button to reset Search button (perhaps replacing it once executed?)
+	* Need to write name-based indexing of scripts when JustML parsing fails
+	* Need to write JustML batch import utility and include on setup page.
+	* Need to tweak icon file to look better when small
+	* Add x86 installers to MSI
+	* Create source-based build 
+	* Publish and open source
+	* Include license file
+	* Publish JustML specifications
+

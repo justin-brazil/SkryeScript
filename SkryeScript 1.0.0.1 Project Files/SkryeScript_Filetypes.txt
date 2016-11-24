@@ -1,0 +1,8 @@
+.txt
+.rtf
+.sh
+.ps1
+.psm1
+.bat
+.batch
+.bash

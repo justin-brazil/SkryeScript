@@ -1,0 +1,6 @@
+Note clipboard #2
+-----------------
+
+Store snippets, articles, templates, and other text here.
+
+The data is persistent across sessions.

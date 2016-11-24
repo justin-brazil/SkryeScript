@@ -1,0 +1,15 @@
+﻿<Project>
+  <Version>1.1</Version>
+  <FileID>be2526ef-8a7e-44ee-a350-c92bba25efe6</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders />
+  <Files>
+    <File ReferenceName="" Build="0">Startup.pss</File>
+    <File ReferenceName="Call-Global_ps1" Build="0" CommandExtension="True">Globals.ps1</File>
+    <File ReferenceName="Call-SkryeScript_Main_Form_psf" Build="0">SkryeScript Main Form.psf</File>
+    <File ReferenceName="Call-SkryeScript_SplashForm_psf" Build="0">SkryeScript SplashForm.psf</File>
+    <File ReferenceName="Call-ScriptSearch_Setup_Form_psf" Build="0">ScriptSearch Setup Form.psf</File>
+    <File ReferenceName="Call-Function_-_Deploy-Directories_ps1" Build="0" CommandExtension="False">Function - Deploy-Directories.ps1</File>
+    <File ReferenceName="Call-WelcomeForm_psf" Build="0">WelcomeForm.psf</File>
+  </Files>
+</Project>
