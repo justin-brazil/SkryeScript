@@ -1,5 +1,5 @@
-<h1>SkryeScript</h1>
-
+SkryeScript
+------------
 A script management tool for the IT professional
 
 Author: Justin Brazil
