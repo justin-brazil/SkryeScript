@@ -1,6 +1,6 @@
-SkreyScript
-------------
-A Script Organizer for the IT Professional
+<h1>SkryeScript</h1>
+
+A script management tool for the IT professional
 
 Author: Justin Brazil
 PowerShell 5.0 Windows GUI Form Application
